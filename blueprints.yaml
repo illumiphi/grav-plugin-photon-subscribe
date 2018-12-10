@@ -3,13 +3,13 @@ version: 0.1.0
 description: components for Mailchimp integration
 icon: asterisk
 author:
-  name: illumiphi
-  email: phi@illumiphi.com
-homepage: https://github.com/i-am-phi/grav-plugin-photon-subscribe
-demo: https://illumiphi.com
-keywords: datatype, photon
-bugs: https://github.com/i-am-phi/grav-plugin-photon-subscribe/issues
-docs: https://github.com/i-am-phi/grav-plugin-photon-subscribe/blob/develop/README.md
+  name: phi ARCHITECT
+  email: phi@photon-platform.net
+homepage: https://github.com/photon-platform/grav-plugin-photon-subscribe
+demo: https://photon-platform.net
+keywords: datatype, photon, mailchimp
+bugs: https://github.com/photon-platform/grav-plugin-photon-subscribe/issues
+docs: https://github.com/photon-platform/grav-plugin-photon-subscribe/blob/develop/README.md
 license: MIT
 
 dependencies:
