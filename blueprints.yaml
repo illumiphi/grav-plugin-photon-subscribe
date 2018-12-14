@@ -52,6 +52,15 @@ form:
       validate:
         type: bool
 
+    account_id:
+      type: text
+      label: Account ID
+      help: u=x on form
+
+    list_id:
+      type: text
+      label: List ID
+      help: id=x on form
 
     # text_var:
     #   type: text
