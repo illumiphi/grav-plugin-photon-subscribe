@@ -81,7 +81,7 @@ class PhotonSubscribePlugin extends Plugin
 
       // styles
       $css = 'plugin://photon-subscribe/assets/subscribe.css';
-      $assets->addCss($css, 100, false, 'photon-plugins' );
+      $assets->addCss($css, 100, 'pipeline', 'photon-plugins' );
 
       // only load the vars if this datatype page
       if ($page->template() == 'subscribe')
