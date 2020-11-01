@@ -1,5 +1,5 @@
 title: Subscribe
-@extends:
+'@extends':
     type: article
     context: blueprints://pages
 
