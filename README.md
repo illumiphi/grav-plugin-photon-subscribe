@@ -10,7 +10,7 @@
 ---
 
 
-> components for Mailchimp integration
+> components for phpList config
 
 - [configuration](#configuration)
 - [templates](#templates)

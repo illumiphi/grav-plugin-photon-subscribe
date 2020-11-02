@@ -1,12 +1,11 @@
 name: photon ✴ Subscribe
 version: 0.1.0
-description: components for Mailchimp integration
+description: components for phpList config
 author:
   name: phi ARCHITECT
   email: phi@photon-platform.net
 homepage: https://github.com/photon-platform/grav-plugin-photon-subscribe
-docs: https://github.com/photon-platform/grav-plugin-photon-subscribe/blob/develop/README.md
-bugs: https://github.com/photon-platform/grav-plugin-photon-subscribe/issues
+docs: https://photon-platform.github.io/grav-plugin-photon-subscribe/
 keywords: datatype, photon, mailchimp
 icon: asterisk
 license: MIT
