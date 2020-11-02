@@ -50,3 +50,51 @@ Note that if you use the admin plugin, a file with your configuration, and named
 blueprints
 └── subscribe.yaml
 ```
+
+### Subscribe
+subscribe.yaml
+extends: article
+fields:
+- header.subscribe
+  - .notes
+
+# templates
+
+```sh
+templates
+├── _asides
+│   └── mailchimp-signup.html.twig
+└── subscribe.html.twig
+```
+
+# assets
+
+```sh
+assets
+├── subscribe.css
+└── subscribe.js
+```
+
+
+## Installation
+
+- all photon plugins are installed as git submodules. More on that later.
+
+
+
+## Configuration
+
+
+## Usage
+
+Select template type when creating a new page
+
+## Credits
+
+
+## To Do
+
+- [ ] Future plans, if any
+
+
+copyright &copy; 2020
